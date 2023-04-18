@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor-Game
-![Screenshot](rps game.png)
+https://github.com/Nishant4coding/Rock-Paper-Scissor-Game/blob/main/rps%20game.png
